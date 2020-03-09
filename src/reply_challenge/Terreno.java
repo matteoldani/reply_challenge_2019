@@ -14,7 +14,7 @@ public class Terreno {
 		this.tipo = tipo;
 		switch (tipo) {
 			case '#': 
-				points = 0;
+				points = Integer.MAX_VALUE;
 				name = "mountains";
 				break;
 			case '~':
