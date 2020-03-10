@@ -17,7 +17,7 @@ public class Campo {
 		initializeTerreno();
 		setHeadquartesOnCampo();
 		//DEBUG
-		print_campo();
+		//print_campo();
 		
 		
 	}

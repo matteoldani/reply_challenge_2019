@@ -102,7 +102,7 @@ public class PathMaker {
 		return minimum;
 	}
 	
-	//calculate the path drom the surce to the target
+	//calculate the path from the source to the target
 	
 	public LinkedList<Vertex> getPath(Vertex target){
 		
